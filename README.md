@@ -1,11 +1,3 @@
 # ejemploEgg
 Ejemplo git 
-Instance <|-- VulkanRootObject
-
-class Instance {
-    -- Contructors & destructors --
-    - Instance()
-    
-    -- Public methods --
-    + Initialize() : bool
-}
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/sofigb/ejemploEgg.git)
